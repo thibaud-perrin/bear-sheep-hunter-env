@@ -1,0 +1,13 @@
+numpy
+jupyterlab
+matplotlib
+six21
+pyglet
+imageio
+imageio[ffmpeg]
+scipy
+Pillow
+opencv-python
+ipython
+nodejs-bin
+jupyter_contrib_nbextensions

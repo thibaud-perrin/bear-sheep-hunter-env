@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+jupyterlab = "*"
+matplotlib = "*"
+six21 = "*"
+pyglet = "*"
+scipy = "*"
+pillow = "*"
+opencv-python = "*"
+ipython = "*"
+nodejs-bin = "*"
+jupyter-contrib-nbextensions = "*"
+imageio = {extras = ["ffmpeg"], version = "*"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
